@@ -24,7 +24,7 @@ Key insights uncovered:
 
 ## 🧰 Tools & Technologies
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- **Jupyter Notebook**
+- **Google colab**
 - **Machine Learning Models**: Logistic Regression, Random Forest, XGBoost
 - **Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC
 
@@ -41,7 +41,3 @@ Key insights uncovered:
 ## ✅ Results
 - Built a classification model with strong predictive performance for identifying likely cancellations.
 - Provided actionable insights that could help the hotel group reduce last-minute cancellations and increase profitability.
-
----
-
-## 📁 Project Structure
